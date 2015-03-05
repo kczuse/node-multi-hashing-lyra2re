@@ -22,6 +22,7 @@
                 "boolberry.cc",
                 "nist5.c",
                 "sha1.c",
+                "whirlpoolx.c",
                 "x15.c",
                 "fresh.c",
                 "neoscrypt.c",
